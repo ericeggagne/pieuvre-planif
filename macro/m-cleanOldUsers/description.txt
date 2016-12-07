@@ -1,0 +1,3 @@
+Auteur:	Eric Gagne
+Version: 1.0	(initial version)
+Description: Cette macro enleve les usagers qui ne se sont plus actif depuis 5 ans.
