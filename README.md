@@ -1,4 +1,5 @@
 # pieuvre-planif (starting project)
+	Ce project consiste a elaborer un outils d'aide a la gestion d'un club social/sportif. 
 
 # Auteur: 	Eric Gagne 
 # Contact: 	eric.eg.gagne@gmail.com
